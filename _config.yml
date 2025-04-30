@@ -1,0 +1,11 @@
+title: "My Portfolio"
+description: "Data Engineer | MLOps Enthusiast | Always Building"
+theme: jekyll-theme-minimal
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Optional
+logo: /assets/me.png
+show_downloads: false
+
