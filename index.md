@@ -4,7 +4,7 @@ layout: default
 
 # 👋 Hi, I'm Nami
 
-Data Engineer in the making, blending finance brains with CS brawn.  
+Data Engineer in the making, blending finance with CS.  
 
 ## ⚙️ Tech Stack
 
