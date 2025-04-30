@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+🇰🇷 [한국어 버전 보기](index.ko.html)
 
 # 👋 Hi, I'm Nami
 
