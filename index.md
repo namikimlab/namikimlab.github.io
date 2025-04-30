@@ -11,7 +11,7 @@ Data Engineer in the making, blending finance brains with CS brawn.
 **Languages**: Python, SQL, Java  
 **Tools**: Apache Spark, Apache Airflow, Kafka, dbt, Kestra, Terraform, Docker  
 **Cloud**: AWS (S3, Athena, RDS), GCP (BigQuery)  
-**Databases**: PostgreSQL, MongoDB
+**Databases**: PostgreSQL, MongoDB  
 **Visualization**: Tablaue, PowerBI, Looker 
 **Other**: Git, Linux, Jupyter Notebook
 
