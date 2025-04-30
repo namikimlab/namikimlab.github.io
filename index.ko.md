@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "남희 포트폴리오"
 ---
+🇺🇸 [View in English](index.html)
 
 # 👋 안녕하세요, 남희입니다
 
