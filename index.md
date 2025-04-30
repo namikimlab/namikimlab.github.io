@@ -2,11 +2,18 @@
 layout: default
 ---
 
-# 👋 Hi, I'm Nami Kim
+# 👋 Hi, I'm Nami
 
-Aspiring Data Engineer with a background in Finance & CS.  
-🔧 Tech: Python, SQL, Spark, Airflow, Docker, GCP, AWS...  
-📈 Portfolio below. Blog [here](https://yourblogsite.com).
+Data Engineer in the making, blending finance brains with CS brawn.  
+
+## ⚙️ Tech Stack
+
+**Languages**: Python, SQL, Java  
+**Tools**: Apache Spark, Apache Airflow, Kafka, dbt, Kestra, Terraform, Docker  
+**Cloud**: AWS (S3, Athena, RDS), GCP (BigQuery)  
+**Databases**: PostgreSQL, MongoDB
+**Visualization**: Tablaue, PowerBI, Looker 
+**Other**: Git, Linux, Jupyter Notebook
 
 ## 💼 Featured Projects
 
@@ -15,7 +22,12 @@ Aspiring Data Engineer with a background in Finance & CS.
 - **[NYC Taxi Data Pipeline](https://github.com/namikimlab/nyc-taxi-pipeline)**  
   Raw to BQ with Terraform infra. Monitored. Logged.  
 
+## ✍️ Blog
+
+I ramble about my journey here:  
+👉 [https://yourblogsite.com](https://yourblogsite.com)
+
 ## 📫 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- GitHub: [@namikimlab](https://github.com/namikimlab)  
+- LinkedIn: [linkedin.com/in/namixkim](https://linkedin.com/in/namixkim)

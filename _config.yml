@@ -1,11 +1,11 @@
-title: "My Portfolio"
-description: "Data Engineer | MLOps Enthusiast | Always Building"
+title: "Nami Kim"
+description: "Data Engineer | AI ML Explorer"
 theme: jekyll-theme-minimal
 markdown: kramdown
 plugins:
   - jekyll-feed
 
 # Optional
-logo: /assets/me.png
+logo: /assets/me.jpg
 show_downloads: false
 
