@@ -13,7 +13,7 @@ Data Engineer in the making, blending finance with CS.
 **Tools**: Apache Spark, Apache Airflow, Kafka, dbt, Kestra, Terraform, Docker  
 **Cloud**: AWS (S3, Athena, RDS), GCP (BigQuery)  
 **Databases**: PostgreSQL, MongoDB  
-**Visualization**: Tablaue, PowerBI, Looker 
+**Visualization**: Tablaue, PowerBI, Looker  
 **Other**: Git, Linux, Jupyter Notebook
 
 ## 💼 Featured Projects

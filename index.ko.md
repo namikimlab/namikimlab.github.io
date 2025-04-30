@@ -26,7 +26,7 @@ layout: default
 
 ## ✍️ 블로그
 
-여정과 생각들을 여기서 기록하고 있어요:  
+여기서 기록하고 있어요:  
 👉 [https://yourblogsite.com](https://yourblogsite.com)
 
 ## 📫 연락처
