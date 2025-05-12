@@ -19,16 +19,17 @@ layout: default
 ## 💼 주요 프로젝트
 
 - **[핀테크 배치 파이프라인](https://github.com/namikimlab/fintech-batch-pipeline)**  
-  Airflow + Spark + BigQuery 기반의 ETL 파이프라인. 파티셔닝 및 중복 제거 처리 포함.
-
-- **[뉴욕 택시 데이터 파이프라인](https://github.com/namikimlab/nyc-taxi-pipeline)**  
-  GitHub 릴리즈 데이터를 수집해 Terraform 인프라로 GCS → BigQuery로 전송. 모니터링 및 로깅 설정 포함.
+  Airflow, Spark, BigQuery를 활용한 ETL 파이프라인 구축
+- **[도서 추천 시스템](https://github.com/namikimlab/book-recommender)**  
+  빅데이터와 머신러닝 기반의 개인화 추천 시스템
+- **[청년 복지 추천 시스템](https://github.com/namikimlab/youth-benefit-recommender)**  
+  추천 로직을 포함한 ETL 파이프라인 구현
 
 ## ✍️ 블로그
 
 여기서 기록하고 있어요:  
-👉 [https://yourblogsite.com](https://yourblogsite.com)
+👉 [남희 기록](https://ko.namixkim.com/)
 
 ## 📫 연락처
-- GitHub: [@namikimlab](https://github.com/namikimlab)  
-- LinkedIn: [linkedin.com/in/namixkim](https://linkedin.com/in/namixkim)
+- 깃헙: [@namikimlab](https://github.com/namikimlab)  
+- 링크드인: [linkedin.com/in/namixkim](https://linkedin.com/in/namixkim)

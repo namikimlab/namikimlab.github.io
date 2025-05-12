@@ -5,7 +5,7 @@ layout: default
 
 # 👋 Hi, I'm Nami
 
-Data Engineer in the making, blending finance with CS.  
+Finance + CS -> Data Engineer  
 
 ## ⚙️ Tech Stack
 
@@ -19,14 +19,17 @@ Data Engineer in the making, blending finance with CS.
 ## 💼 Featured Projects
 
 - **[Fintech Batch Pipeline](https://github.com/namikimlab/fintech-batch-pipeline)**  
-  ETL with Airflow + Spark + BigQuery. Partitioned, deduplicated.  
-- **[NYC Taxi Data Pipeline](https://github.com/namikimlab/nyc-taxi-pipeline)**  
-  Raw to BQ with Terraform infra. Monitored. Logged.  
+  ETL with Airflow + Spark + BigQuery. 
+- **[Book Recommender](https://github.com/namikimlab/book-recommender)**  
+  Big data and machine learning.
+- **[Youth Benefit Recommender](https://github.com/namikimlab/youth-benefit-recommender)**  
+  ETL with recommendation logic 
+
 
 ## ✍️ Blog
 
 I ramble about my journey here:  
-👉 [https://yourblogsite.com](https://yourblogsite.com)
+👉 [Nami Kim's Log](https://en.namixkim.com/)
 
 ## 📫 Contact
 
