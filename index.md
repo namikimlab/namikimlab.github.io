@@ -12,7 +12,7 @@ layout: default
 🎓 CS Master's | MA Finance | BA Economics  
 🌏 Based in Korea | Open to remote roles globally!  
 
-🔨 **BUILD ANYTHING**  
+🔨 **BUILD ANYTHING!**  
 I love building real-world solutions with data and technology.
 
 ## 🚀 About Me
@@ -23,8 +23,8 @@ I love building real-world solutions with data and technology.
 ## ⚙️ Tech Stack
 
 **Languages**: Python, SQL, Java, JavaScript   
-**Tools**: Apache Spark, Apache Airflow, Kafka, dbt, Kestra  
-**DevOps & Infrastructure**: Docker, Terraform, Git, Linux
+**Data Tools**: Apache Spark, Apache Airflow, Kafka, dbt, Kestra  
+**DevOps & Infrastructure**: Docker, Terraform, Git, Linux  
 **Cloud**: AWS, GCP   
 **Databases**: PostgreSQL, MongoDB  
 **Visualization**: Tableau, PowerBI, Looker  
@@ -32,7 +32,7 @@ I love building real-world solutions with data and technology.
 
 ## 🔗 Connect with Me
 - [GitHub Pages](https://namixkim.github.io/): portfolio & featured projects
-- [LinkedIn](https://linkedin.com/in/your-profile): professional background, resume
+- [LinkedIn](https://linkedin.com/in/namixkim): professional background, resume
 - [Portfolio Repo](https://github.com/namikimlab): code
 - [Blog](https://en.namixkim.com/): behind the builds — lessons learned & thought process
 - 💌 Reach me: namixkim [at] gmail [dot] com
@@ -40,14 +40,19 @@ I love building real-world solutions with data and technology.
 
 ## 💼 Featured Projects
 
+### Data Engieering
+
 - **[Fintech Batch Pipeline](https://github.com/namikimlab/fintech-batch-pipeline)**  
   ETL with Airflow + Spark + BigQuery. 
-
-- **[Book Recommender](https://github.com/namikimlab/book-recommender)**  
-  Hybrid recommendation system using collaborative filtering and NLP feature extraction. Preprocessed messy Goodreads data, computed similarity metrics, and deployed results via Streamlit.
   
 - **[Youth Benefit Recommender](https://github.com/namikimlab/youth-benefit-recommender)**  
   ETL with recommendation logic 
+
+### Machine Learning
+- **[Book Recommender](https://github.com/namikimlab/book-recommender)**  
+  Hybrid recommendation system using collaborative filtering and NLP feature extraction. Preprocessed messy Goodreads data, computed similarity metrics, and deployed results via Streamlit.
+
+### Web app 
 
 - **[Potting Soil Calculator](https://github.com/namikimlab/potting-soil-calculator)**  
   A responsive React app that calculates soil volume based on pot shape and size — built with Vite, TypeScript, and Tailwind CSS.
