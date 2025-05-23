@@ -34,7 +34,7 @@ layout: default
 - [GitHub Pages](https://namixkim.github.io/): 포트폴리오 및 주요 프로젝트
 - [LinkedIn](https://linkedin.com/in/namixkim): 이력, 경력
 - [깃헙 저장소](https://github.com/namikimlab): 코드 모음
-- [블로그](https://en.namixkim.com/): 만들며 배우고 고민한 과정들
+- [블로그](https://ko.namixkim.com/): 만들며 배우고 고민한 과정들
 - 💌 연락처: namixkim [at] gmail [dot] com  
 - 데이터, AI에 대해서 언제든지 이야기해요 ☕
 
