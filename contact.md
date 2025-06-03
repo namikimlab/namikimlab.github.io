@@ -4,32 +4,34 @@ title: Contact
 permalink: /contact/
 ---
 
-<div class="p-4">
-  <div class="flex flex-col gap-8">
-    <h2 class="text-[#191610] text-lg font-bold leading-tight tracking-[-0.015em] flex-1 text-left pr-12">Contact Info</h2>
-    <div class="flex flex-col">
-      <p class="text-[#8c7f5a] text-base font-normal leading-normal mb-1">Email</p>
-      <p class="text-[#191610] text-lg font-medium leading-normal">namixkim [at] gmail [dot] com</p>
-    </div>
+<div class="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8">
+  <div class="p-4">
+    <div class="flex flex-col gap-8">
+      <h2 class="text-[#191610] text-lg font-bold leading-tight tracking-[-0.015em] flex-1 text-left pr-12">Contact Info</h2>
+      <div class="flex flex-col">
+        <p class="text-[#8c7f5a] text-base font-normal leading-normal mb-1">Email</p>
+        <p class="text-[#191610] text-lg font-medium leading-normal">namixkim [at] gmail [dot] com</p>
+      </div>
 
-    <div class="flex flex-col">
-      <p class="text-[#8c7f5a] text-base font-normal leading-normal mb-1">LinkedIn</p>
-      <a href="https://linkedin.com/in/namixkim" class="text-[#191610] text-lg font-medium leading-normal hover:underline">linkedin.com/in/namixkim</a>
-    </div>
+      <div class="flex flex-col">
+        <p class="text-[#8c7f5a] text-base font-normal leading-normal mb-1">LinkedIn</p>
+        <a href="https://linkedin.com/in/namixkim" class="text-[#191610] text-lg font-medium leading-normal hover:underline">linkedin.com/in/namixkim</a>
+      </div>
 
-    <div class="flex flex-col">
-      <p class="text-[#8c7f5a] text-base font-normal leading-normal mb-1">GitHub</p>
-      <a href="https://github.com/namikimlab" class="text-[#191610] text-lg font-medium leading-normal hover:underline">github.com/namixkim</a>
-    </div>
+      <div class="flex flex-col">
+        <p class="text-[#8c7f5a] text-base font-normal leading-normal mb-1">GitHub</p>
+        <a href="https://github.com/namikimlab" class="text-[#191610] text-lg font-medium leading-normal hover:underline">github.com/namixkim</a>
+      </div>
 
-    <div class="flex flex-col">
-      <p class="text-[#8c7f5a] text-base font-normal leading-normal mb-1">Blog</p>
-      <a href="https://en.namixkim.com" class="text-[#191610] text-lg font-medium leading-normal hover:underline">namixkim.github.io/blog</a>
+      <div class="flex flex-col">
+        <p class="text-[#8c7f5a] text-base font-normal leading-normal mb-1">Blog</p>
+        <a href="https://en.namixkim.com" class="text-[#191610] text-lg font-medium leading-normal hover:underline">namixkim.github.io/blog</a>
+      </div>
     </div>
   </div>
-</div>
 
-<div class="h-20"></div>
+  <div class="h-20"></div>
+</div>
 
 <div class="fixed bottom-0 left-0 right-0">
   <div class="flex gap-2 border-t border-[#f1efe9] bg-[#fbfaf9] px-4 pb-3 pt-2">
