@@ -4,22 +4,12 @@ title: Contact
 permalink: /contact/
 ---
 
-<div class="flex items-center bg-[#fbfaf9] p-4 pb-2 justify-between">
-  <div class="text-[#191610] flex size-12 shrink-0 items-center">
-    <a href="/" class="text-[#191610]">
-      <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" fill="currentColor" viewBox="0 0 256 256">
-        <path d="M224,128a8,8,0,0,1-8,8H59.31l58.35,58.34a8,8,0,0,1-11.32,11.32l-72-72a8,8,0,0,1,0-11.32l72-72a8,8,0,0,1,11.32,11.32L59.31,120H216A8,8,0,0,1,224,128Z"></path>
-      </svg>
-    </a>
-  </div>
-  <h2 class="text-[#191610] text-lg font-bold leading-tight tracking-[-0.015em] flex-1 text-center pr-12">Contact Info</h2>
-</div>
-
 <div class="p-4">
   <div class="flex flex-col gap-8">
+    <h2 class="text-[#191610] text-lg font-bold leading-tight tracking-[-0.015em] flex-1 text-left pr-12">Contact Info</h2>
     <div class="flex flex-col">
       <p class="text-[#8c7f5a] text-base font-normal leading-normal mb-1">Email</p>
-      <p class="text-[#191610] text-lg font-medium leading-normal">namixkim@gmail.com</p>
+      <p class="text-[#191610] text-lg font-medium leading-normal">namixkim [at] gmail [dot] com</p>
     </div>
 
     <div class="flex flex-col">
@@ -29,12 +19,12 @@ permalink: /contact/
 
     <div class="flex flex-col">
       <p class="text-[#8c7f5a] text-base font-normal leading-normal mb-1">GitHub</p>
-      <a href="https://github.com/namixkim" class="text-[#191610] text-lg font-medium leading-normal hover:underline">github.com/namixkim</a>
+      <a href="https://github.com/namikimlab" class="text-[#191610] text-lg font-medium leading-normal hover:underline">github.com/namixkim</a>
     </div>
 
     <div class="flex flex-col">
       <p class="text-[#8c7f5a] text-base font-normal leading-normal mb-1">Blog</p>
-      <a href="https://namixkim.github.io/blog" class="text-[#191610] text-lg font-medium leading-normal hover:underline">namixkim.github.io/blog</a>
+      <a href="https://en.namixkim.com" class="text-[#191610] text-lg font-medium leading-normal hover:underline">namixkim.github.io/blog</a>
     </div>
   </div>
 </div>

@@ -26,15 +26,28 @@
     <div class="relative flex size-full min-h-screen flex-col bg-[#fbfaf9] justify-between group/design-root overflow-x-hidden" style='font-family: "Work Sans", "Noto Sans", sans-serif;'>
         <div>
             <div class="flex items-center bg-background p-4 pb-2 justify-between">
+                {% unless page.url == '/' or page.url == '/index.html' %}
+                    <a href="/" class="text-[#191610] mr-2">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" fill="currentColor" viewBox="0 0 256 256">
+                            <path d="M224,128a8,8,0,0,1-8,8H59.31l58.35,58.34a8,8,0,0,1-11.32,11.32l-72-72a8,8,0,0,1,0-11.32l72-72a8,8,0,0,1,11.32,11.32L59.31,120H216A8,8,0,0,1,224,128Z"></path>
+                        </svg>
+                    </a>
+                {% endunless %}
                 <h2 class="text-text text-lg font-bold leading-tight tracking-[-0.015em] flex-1 text-center pl-12">{{ site.title }}</h2>
-                <div class="flex w-12 items-center justify-end">
-                    <button class="flex max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-12 bg-transparent text-text gap-2 text-base font-bold leading-normal tracking-[0.015em] min-w-0 p-0">
+                <div class="flex w-12 items-center justify-end relative">
+                    <button id="menu-btn" class="flex max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-12 bg-transparent text-text gap-2 text-base font-bold leading-normal tracking-[0.015em] min-w-0 p-0">
                         <div class="text-text">
                             <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" fill="currentColor" viewBox="0 0 256 256">
                                 <path d="M224,128a8,8,0,0,1-8,8H40a8,8,0,0,1,0-16H216A8,8,0,0,1,224,128ZM40,72H216a8,8,0,0,0,0-16H40a8,8,0,0,0,0,16ZM216,184H40a8,8,0,0,0,0,16H216a8,8,0,0,0,0-16Z"></path>
                             </svg>
                         </div>
                     </button>
+                    <div id="menu-dropdown" class="hidden absolute right-0 top-12 mt-2 w-48 bg-white rounded-lg shadow-lg z-50 border border-[#f1efe9]">
+                        <a href="/" class="block px-4 py-2 text-[#191610] hover:bg-[#f1efe9]">Home</a>
+                        <a href="/about" class="block px-4 py-2 text-[#191610] hover:bg-[#f1efe9]">About Me</a>
+                        <a href="/projects" class="block px-4 py-2 text-[#191610] hover:bg-[#f1efe9]">Projects</a>
+                        <a href="/contact" class="block px-4 py-2 text-[#191610] hover:bg-[#f1efe9]">Contact</a>
+                    </div>
                 </div>
             </div>
 
@@ -78,5 +91,23 @@
             <div class="h-5 bg-background"></div>
         </div>
     </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var btn = document.getElementById('menu-btn');
+            var menu = document.getElementById('menu-dropdown');
+            btn.addEventListener('click', function(e) {
+                e.stopPropagation();
+                menu.classList.toggle('hidden');
+            });
+            document.addEventListener('click', function(e) {
+                if (!menu.classList.contains('hidden')) {
+                    menu.classList.add('hidden');
+                }
+            });
+            menu.addEventListener('click', function(e) {
+                e.stopPropagation();
+            });
+        });
+    </script>
 </body>
 </html> 
