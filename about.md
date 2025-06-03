@@ -102,7 +102,7 @@ permalink: /about/
 <div class="flex items-center gap-4 bg-[#fbfaf9] px-4 min-h-[72px] py-2 justify-between">
   <div class="flex flex-col justify-center">
     <p class="text-[#191610] text-base font-medium leading-normal line-clamp-1"><a href="https://namixkim.com/" class="hover:underline" target="_blank" rel="noopener">Blog</a></p>
-    <p class="text-[#8c7f5a] text-sm font-normal leading-normal line-clamp-2"><a href="https://namixkim.com/" class="hover:underline" target="_blank" rel="noopener">Behind the Builds — Lessons Learned & Thought Process</a></p>
+    <p class="text-[#8c7f5a] text-sm font-normal leading-normal line-clamp-2"><a href="https://en.namixkim.com/" class="hover:underline" target="_blank" rel="noopener">Behind the Builds — Lessons Learned & Thought Process</a></p>
   </div>
 </div>
 <div class="flex items-center gap-4 bg-[#fbfaf9] px-4 min-h-[72px] py-2 justify-between">

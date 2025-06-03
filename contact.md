@@ -20,12 +20,12 @@ permalink: /contact/
 
       <div class="flex flex-col">
         <p class="text-[#8c7f5a] text-base font-normal leading-normal mb-1">GitHub</p>
-        <a href="https://github.com/namikimlab" class="text-[#191610] text-lg font-medium leading-normal hover:underline">github.com/namixkim</a>
+        <a href="https://github.com/namikimlab" class="text-[#191610] text-lg font-medium leading-normal hover:underline">github.com/namikimlab</a>
       </div>
 
       <div class="flex flex-col">
         <p class="text-[#8c7f5a] text-base font-normal leading-normal mb-1">Blog</p>
-        <a href="https://en.namixkim.com" class="text-[#191610] text-lg font-medium leading-normal hover:underline">namixkim.github.io/blog</a>
+        <a href="https://en.namixkim.com" class="text-[#191610] text-lg font-medium leading-normal hover:underline">namixkim.com</a>
       </div>
     </div>
   </div>
