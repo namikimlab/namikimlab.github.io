@@ -1,11 +1,46 @@
 title: "Nami Kim"
-description: "Data Engineer | AI ML Explorer"
-theme: jekyll-theme-minimal
+description: "Data Engineer 🧡 AI ML"
+baseurl: ""
+url: ""
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+# Theme settings
 logo: /assets/me.jpg
-show_downloads: false
+background_color: "#fcfbf8"
+text_color: "#1c180d"
+accent_color: "#9e8747"
+
+# Social links
+github_username: 
+linkedin_username: 
+location: "Korea"
+
+# Build settings
+exclude:
+  - README.md
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      lang: "en"
+  - scope:
+      path: "_projects"
+    values:
+      layout: "project"
 
 # Manual language links
 defaults:
