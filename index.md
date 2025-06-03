@@ -9,9 +9,9 @@ title: Home
   </div>
 
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 py-6">
-    {% assign featured_projects = site.projects | where: "featured", true | limit: 6 %}
+    {% assign featured_projects = site.projects | where: "featured", true | where: "visible", true | limit: 6 %}
     {% for project in featured_projects %}
-    <div class="bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-shadow duration-300">
+    <a href="{{ project.url }}" class="block bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-shadow duration-300 focus:outline-none focus:ring-2 focus:ring-accent">
       <div class="aspect-video w-full bg-cover bg-center" style="background-image: url('{{ project.image }}')"></div>
       <div class="p-4">
         <h3 class="text-[#191610] text-lg font-bold leading-tight mb-2">{{ project.title }}</h3>
@@ -22,7 +22,7 @@ title: Home
           {% endfor %}
         </div>
       </div>
-    </div>
+    </a>
     {% endfor %}
   </div>
 </div>
