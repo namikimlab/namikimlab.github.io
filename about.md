@@ -4,17 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<div class="flex items-center bg-[#fbfaf9] p-4 pb-2 justify-between">
-  <div class="text-[#191610] flex size-12 shrink-0 items-center">
-    <a href="/" class="text-[#191610]">
-      <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" fill="currentColor" viewBox="0 0 256 256">
-        <path d="M224,128a8,8,0,0,1-8,8H59.31l58.35,58.34a8,8,0,0,1-11.32,11.32l-72-72a8,8,0,0,1,0-11.32l72-72a8,8,0,0,1,11.32,11.32L59.31,120H216A8,8,0,0,1,224,128Z"></path>
-      </svg>
-    </a>
-  </div>
-  <h2 class="text-[#191610] text-lg font-bold leading-tight tracking-[-0.015em] flex-1 text-center pr-12">About</h2>
-</div>
-
 <h2 class="text-[#191610] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">About Me</h2>
 <p class="text-[#191610] text-base font-normal leading-normal pb-3 pt-1 px-4">
   🧩 5+ years in finance (CPA), now solving real-world problems with data<br>
