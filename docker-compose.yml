@@ -11,4 +11,4 @@ services:
       - ./vendor/bundle:/usr/local/bundle
     working_dir: /srv/jekyll
     environment:
-      - JEKYLL_ENV=development 
+      - JEKYLL_ENV: development
