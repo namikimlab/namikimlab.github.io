@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+<div class="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8">
 <h2 class="text-[#191610] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">About Me</h2>
 <p class="text-[#191610] text-base font-normal leading-normal pb-3 pt-1 px-4">
   🧩 5+ years in finance (CPA), now solving real-world problems with data<br>
@@ -109,6 +110,7 @@ permalink: /about/
     <p class="text-[#191610] text-base font-medium leading-normal line-clamp-1">Email</p>
     <p class="text-[#8c7f5a] text-sm font-normal leading-normal line-clamp-2">namixkim [at] gmail [dot] com</p>
   </div>
+</div>
 </div>
 
 <div class="h-20"></div>
