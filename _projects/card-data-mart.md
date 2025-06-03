@@ -98,10 +98,10 @@ Built fully automated dashboards with Metabase:
 - dbt docs generated with full model documentation
 - Column-level metadata and lineage graphs
 
-<p align="center">
-  <img src="/assets/projects/card-data-mart/dbt_doc_1.jpg" alt="dbt doc" width="30%" />
-  <img src="/assets/projects/card-data-mart/dbt_doc_2.png" alt="dbt doc" width="30%" />
-</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 2%;">
+  <img src="/assets/projects/card-data-mart/dbt_doc_1.jpg" alt="dbt doc" style="width: 40%;" />
+  <img src="/assets/projects/card-data-mart/dbt_doc_2.png" alt="dbt doc" style="width: 40%;" />
+</div>
 
 <p align="center">
   <img src="/assets/projects/card-data-mart/dbt_lineage.png" alt="dbt lineage" width="70%" />
