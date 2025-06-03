@@ -34,19 +34,32 @@
                     </a>
                 {% endunless %}
                 <h2 class="text-text text-lg font-bold leading-tight tracking-[-0.015em] flex-1 text-center pl-12">{{ site.title }}</h2>
-                <div class="flex w-12 items-center justify-end relative">
-                    <button id="menu-btn" class="flex max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-12 bg-transparent text-text gap-2 text-base font-bold leading-normal tracking-[0.015em] min-w-0 p-0">
-                        <div class="text-text">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" fill="currentColor" viewBox="0 0 256 256">
-                                <path d="M224,128a8,8,0,0,1-8,8H40a8,8,0,0,1,0-16H216A8,8,0,0,1,224,128ZM40,72H216a8,8,0,0,0,0-16H40a8,8,0,0,0,0,16ZM216,184H40a8,8,0,0,0,0,16H216a8,8,0,0,0,0-16Z"></path>
-                            </svg>
-                        </div>
+                <div class="flex items-center gap-2 w-auto justify-end relative">
+                    <!-- Search Icon and Input -->
+                    <button id="search-btn" class="flex items-center justify-center h-12 w-12 bg-transparent text-text p-0" aria-label="Search">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="22px" height="22px" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <circle cx="11" cy="11" r="7" stroke-width="2"/>
+                            <line x1="16.5" y1="16.5" x2="21" y2="21" stroke-width="2" stroke-linecap="round"/>
+                        </svg>
                     </button>
-                    <div id="menu-dropdown" class="hidden absolute right-0 top-12 mt-2 w-48 bg-white rounded-lg shadow-lg z-50 border border-[#f1efe9]">
-                        <a href="/" class="block px-4 py-2 text-[#191610] hover:bg-[#f1efe9]">Home</a>
-                        <a href="/about" class="block px-4 py-2 text-[#191610] hover:bg-[#f1efe9]">About Me</a>
-                        <a href="/projects" class="block px-4 py-2 text-[#191610] hover:bg-[#f1efe9]">Projects</a>
-                        <a href="/contact" class="block px-4 py-2 text-[#191610] hover:bg-[#f1efe9]">Contact</a>
+                    <form id="search-form" class="hidden absolute right-14 top-1/2 -translate-y-1/2 bg-white border border-[#f1efe9] rounded-lg shadow px-2 py-1 z-50" onsubmit="return false;">
+                        <input type="text" id="search-input" class="outline-none text-sm px-2 py-1 w-48" placeholder="Search..." />
+                    </form>
+                    <!-- Hamburger -->
+                    <div class="flex w-12 items-center justify-end relative">
+                        <button id="menu-btn" class="flex max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-12 bg-transparent text-text gap-2 text-base font-bold leading-normal tracking-[0.015em] min-w-0 p-0">
+                            <div class="text-text">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" fill="currentColor" viewBox="0 0 256 256">
+                                    <path d="M224,128a8,8,0,0,1-8,8H40a8,8,0,0,1,0-16H216A8,8,0,0,1,224,128ZM40,72H216a8,8,0,0,0,0-16H40a8,8,0,0,0,0,16ZM216,184H40a8,8,0,0,0,0,16H216a8,8,0,0,0,0-16Z"></path>
+                                </svg>
+                            </div>
+                        </button>
+                        <div id="menu-dropdown" class="hidden absolute right-0 top-12 mt-2 w-48 bg-white rounded-lg shadow-lg z-50 border border-[#f1efe9]">
+                            <a href="/" class="block px-4 py-2 text-[#191610] hover:bg-[#f1efe9]">Home</a>
+                            <a href="/about" class="block px-4 py-2 text-[#191610] hover:bg-[#f1efe9]">About Me</a>
+                            <a href="/projects" class="block px-4 py-2 text-[#191610] hover:bg-[#f1efe9]">Projects</a>
+                            <a href="/contact" class="block px-4 py-2 text-[#191610] hover:bg-[#f1efe9]">Contact</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -93,6 +106,7 @@
     </div>
     <script>
         document.addEventListener('DOMContentLoaded', function() {
+            // Hamburger menu logic
             var btn = document.getElementById('menu-btn');
             var menu = document.getElementById('menu-dropdown');
             btn.addEventListener('click', function(e) {
@@ -106,6 +120,31 @@
             });
             menu.addEventListener('click', function(e) {
                 e.stopPropagation();
+            });
+            // Search expand logic
+            var searchBtn = document.getElementById('search-btn');
+            var searchForm = document.getElementById('search-form');
+            var searchInput = document.getElementById('search-input');
+            searchBtn.addEventListener('click', function(e) {
+                e.stopPropagation();
+                searchForm.classList.toggle('hidden');
+                if (!searchForm.classList.contains('hidden')) {
+                    setTimeout(function() { searchInput.focus(); }, 100);
+                }
+            });
+            searchForm.addEventListener('click', function(e) {
+                e.stopPropagation();
+            });
+            document.addEventListener('click', function(e) {
+                if (!searchForm.classList.contains('hidden')) {
+                    searchForm.classList.add('hidden');
+                }
+            });
+            // Placeholder: handle search submit
+            searchForm.addEventListener('submit', function(e) {
+                e.preventDefault();
+                alert('Search for: ' + searchInput.value);
+                searchForm.classList.add('hidden');
             });
         });
     </script>
