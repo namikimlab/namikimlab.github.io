@@ -15,16 +15,63 @@ permalink: /about/
   <h2 class="text-[#191610] text-lg font-bold leading-tight tracking-[-0.015em] flex-1 text-center pr-12">About</h2>
 </div>
 
-<div class="flex p-4 @container">
-  <div class="flex w-full flex-col gap-4 items-center">
-    <div class="flex gap-4 flex-col items-center">
-      <div class="bg-center bg-no-repeat aspect-square bg-cover rounded-full min-h-32 w-32" style="background-image: url('{{ site.logo }}');"></div>
-      <div class="flex flex-col items-center justify-center">
-        <p class="text-[#191610] text-[22px] font-bold leading-tight tracking-[-0.015em] text-center">Nami Kim</p>
-        <p class="text-[#8c7f5a] text-base font-normal leading-normal text-center">Data Engineer, AI & ML Explorer</p>
-        <p class="text-[#8c7f5a] text-base font-normal leading-normal text-center">Korea</p>
-      </div>
-    </div>
+<h2 class="text-[#191610] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">About Me</h2>
+<p class="text-[#191610] text-base font-normal leading-normal pb-3 pt-1 px-4">
+  🧩 5+ years in finance (CPA), now solving real-world problems with data<br>
+  💡 Interested in Fintech, Data, and AI infrastructure<br>
+  🔬 Continuously learning and building with Data, AI, ML<br>
+  🌏 Location-flexible, open to remote roles globally.
+</p>
+
+<h2 class="text-[#191610] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">Tech Stack</h2>
+<div class="px-4 pb-2">
+  <h3 class="text-[#191610] text-sm font-medium leading-normal pt-2 pb-1">Programming Languages</h3>
+  <div class="flex gap-3 flex-wrap pb-2">
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Python</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">SQL</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Java</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">JavaScript</p></div>
+  </div>
+  <h3 class="text-[#191610] text-sm font-medium leading-normal pt-2 pb-1">Data Engineering & Orchestration</h3>
+  <div class="flex gap-3 flex-wrap pb-2">
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Apache Spark</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Apache Airflow</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Kafka</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">dbt</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Kestra</p></div>
+  </div>
+  <h3 class="text-[#191610] text-sm font-medium leading-normal pt-2 pb-1">Machine Learning & AI</h3>
+  <div class="flex gap-3 flex-wrap pb-2">
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Scikit-Learn</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Pandas</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">NumPy</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Jupyter Notebook</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Hugging Face</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">LLM</p></div>
+  </div>
+  <h3 class="text-[#191610] text-sm font-medium leading-normal pt-2 pb-1">Databases</h3>
+  <div class="flex gap-3 flex-wrap pb-2">
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">PostgreSQL</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">MongoDB</p></div>
+  </div>
+  <h3 class="text-[#191610] text-sm font-medium leading-normal pt-2 pb-1">Visualization & BI</h3>
+  <div class="flex gap-3 flex-wrap pb-2">
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Tableau</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Power BI</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Looker</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Metabsae</p></div>
+  </div>
+  <h3 class="text-[#191610] text-sm font-medium leading-normal pt-2 pb-1">Cloud Platforms</h3>
+  <div class="flex gap-3 flex-wrap pb-2">
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">AWS</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">GCP</p></div>
+  </div>
+  <h3 class="text-[#191610] text-sm font-medium leading-normal pt-2 pb-1">DevOps & Infrastructure</h3>
+  <div class="flex gap-3 flex-wrap pb-2">
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Docker</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Terraform</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Git</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Linux</p></div>
   </div>
 </div>
 
@@ -32,81 +79,40 @@ permalink: /about/
 <div class="flex items-center gap-4 bg-[#fbfaf9] px-4 min-h-[72px] py-2 justify-between">
   <div class="flex flex-col justify-center">
     <p class="text-[#191610] text-base font-medium leading-normal line-clamp-1">Computer Science</p>
-    <p class="text-[#8c7f5a] text-sm font-normal leading-normal line-clamp-2">Master's Degree</p>
+    <p class="text-[#8c7f5a] text-sm font-normal leading-normal line-clamp-2">Master of Computer and Information Technology — University of Pennsylvania</p>
   </div>
 </div>
 <div class="flex items-center gap-4 bg-[#fbfaf9] px-4 min-h-[72px] py-2 justify-between">
   <div class="flex flex-col justify-center">
     <p class="text-[#191610] text-base font-medium leading-normal line-clamp-1">Finance</p>
-    <p class="text-[#8c7f5a] text-sm font-normal leading-normal line-clamp-2">Master's Degree</p>
+    <p class="text-[#8c7f5a] text-sm font-normal leading-normal line-clamp-2">Master's Degree — Seoul National University</p>
   </div>
 </div>
 <div class="flex items-center gap-4 bg-[#fbfaf9] px-4 min-h-[72px] py-2 justify-between">
   <div class="flex flex-col justify-center">
     <p class="text-[#191610] text-base font-medium leading-normal line-clamp-1">Economics</p>
-    <p class="text-[#8c7f5a] text-sm font-normal leading-normal line-clamp-2">Bachelor's Degree</p>
+    <p class="text-[#8c7f5a] text-sm font-normal leading-normal line-clamp-2">Bachelor's Degree — University of Michigan</p>
   </div>
 </div>
 
-<h2 class="text-[#191610] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">About Me</h2>
-<p class="text-[#191610] text-base font-normal leading-normal pb-3 pt-1 px-4">
-  🧩 5+ years in finance (CPA), now solving real-world problems with data<br>
-  💡 Interested in Fintech, Data, and AI infrastructure<br>
-  🔬 Continuously learning and building with Data, AI, ML<br>
-  🌏 Based in Korea, open to remote roles globally!
-</p>
-
-<h2 class="text-[#191610] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">Tech Stack</h2>
-<div class="flex gap-3 p-3 flex-wrap pr-4">
-  <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4">
-    <p class="text-[#191610] text-sm font-medium leading-normal">Python</p>
-  </div>
-  <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4">
-    <p class="text-[#191610] text-sm font-medium leading-normal">SQL</p>
-  </div>
-  <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4">
-    <p class="text-[#191610] text-sm font-medium leading-normal">Java</p>
-  </div>
-  <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4">
-    <p class="text-[#191610] text-sm font-medium leading-normal">JavaScript</p>
-  </div>
-  <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4">
-    <p class="text-[#191610] text-sm font-medium leading-normal">Apache Spark</p>
-  </div>
-  <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4">
-    <p class="text-[#191610] text-sm font-medium leading-normal">Apache Airflow</p>
-  </div>
-  <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4">
-    <p class="text-[#191610] text-sm font-medium leading-normal">Kafka</p>
-  </div>
-  <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4">
-    <p class="text-[#191610] text-sm font-medium leading-normal">Docker</p>
-  </div>
-  <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4">
-    <p class="text-[#191610] text-sm font-medium leading-normal">AWS</p>
-  </div>
-  <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4">
-    <p class="text-[#191610] text-sm font-medium leading-normal">GCP</p>
-  </div>
-</div>
 
 <h2 class="text-[#191610] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">Connect with Me</h2>
 <div class="flex items-center gap-4 bg-[#fbfaf9] px-4 min-h-[72px] py-2 justify-between">
   <div class="flex flex-col justify-center">
-    <p class="text-[#191610] text-base font-medium leading-normal line-clamp-1">GitHub Pages</p>
-    <p class="text-[#8c7f5a] text-sm font-normal leading-normal line-clamp-2">Portfolio & Featured Projects</p>
+    <p class="text-[#191610] text-base font-medium leading-normal line-clamp-1"><a href="https://namikimlab.github.io/" class="hover:underline" target="_blank" rel="noopener">GitHub Pages</a></p>
+    <p class="text-[#8c7f5a] text-sm font-normal leading-normal line-clamp-2"><a href="https://namikimlab.github.io/" class="hover:underline" target="_blank" rel="noopener">Portfolio & Featured Projects</a></p>
   </div>
 </div>
 <div class="flex items-center gap-4 bg-[#fbfaf9] px-4 min-h-[72px] py-2 justify-between">
   <div class="flex flex-col justify-center">
-    <p class="text-[#191610] text-base font-medium leading-normal line-clamp-1">LinkedIn</p>
-    <p class="text-[#8c7f5a] text-sm font-normal leading-normal line-clamp-2">Professional Background & Resume</p>
+    <p class="text-[#191610] text-base font-medium leading-normal line-clamp-1"><a href="https://www.linkedin.com/in/namixkim/" class="hover:underline" target="_blank" rel="noopener">LinkedIn</a></p>
+    <p class="text-[#8c7f5a] text-sm font-normal leading-normal line-clamp-2"><a href="https://www.linkedin.com/in/namixkim/" class="hover:underline" target="_blank" rel="noopener">Professional Background & Resume</a></p>
   </div>
 </div>
 <div class="flex items-center gap-4 bg-[#fbfaf9] px-4 min-h-[72px] py-2 justify-between">
   <div class="flex flex-col justify-center">
-    <p class="text-[#191610] text-base font-medium leading-normal line-clamp-1">Blog</p>
-    <p class="text-[#8c7f5a] text-sm font-normal leading-normal line-clamp-2">Behind the Builds — Lessons Learned & Thought Process</p>
+    <p class="text-[#191610] text-base font-medium leading-normal line-clamp-1"><a href="https://namixkim.com/" class="hover:underline" target="_blank" rel="noopener">Blog</a></p>
+    <p class="text-[#8c7f5a] text-sm font-normal leading-normal line-clamp-2"><a href="https://namixkim.com/" class="hover:underline" target="_blank" rel="noopener">Behind the Builds — Lessons Learned & Thought Process</a></p>
   </div>
 </div>
 <div class="flex items-center gap-4 bg-[#fbfaf9] px-4 min-h-[72px] py-2 justify-between">
