@@ -8,7 +8,7 @@ plugins:
   - jekyll-seo-tag
 
 # Theme settings
-logo: assets/me.jpg
+logo: assets/images/me.jpg
 background_color: "#fcfbf8"
 text_color: "#1c180d"
 accent_color: "#9e8747"
