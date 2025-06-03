@@ -1,14 +1,16 @@
 ---
 layout: project
 title: Potting Soil Calcualtor
+date: 2024-06-01
 description: A mobile-friendly web app that calculates optimal potting soil volume and recommends purchase options based on pot shape and size.
-image: /assets/projects/feey-ef8Xt_z_m1k-unsplash.jpg
-tags: [React, Vite, Netlify, Web-app, Typescript, Tailwind, Jest]
+image: /assets/projects/soil-calculator/feey-ef8Xt_z_m1k-unsplash.jpg
+tags: [React, Vite, Netlify, Web app, Typescript, Tailwind CSS, Jest, Frontend, SEO, Product Development]
 featured: true
 visible: true
 ---
 
-👉 [**Launch App**](https://soilcalc.changbitfarm.com/) &nbsp;&nbsp; | &nbsp;&nbsp; [**Source Code (GitHub)**](https://github.com/namikimlab/potting-soil-calculator)
+👉 [**Launch App**](https://soilcalc.changbitfarm.com/)
+👉 [**Source Code (GitHub)**](https://github.com/namikimlab/potting-soil-calculator)
 
 
 ## 🪴 Project Motivation
@@ -39,6 +41,18 @@ I built this tool to provide an intuitive, mobile-friendly solution that simplif
 - SEO optimized (Open Graph tags, sitemap.xml, robots.txt, canonical URLs)
 
 
+## 🎨 Design with AI
+
+- Started with a simple hand-drawn sketch and selected a natural color palette.
+- Used **Google Stitch** to generate design concepts based on UI layout, target users, and key features.
+- Created pot shape icons using **ChatGPT's image generation** from my initial sketches.
+- Combined AI tools to quickly build a cohesive, production-ready UI without a dedicated designer.
+
+<p class="text-center">
+  <img src="/assets/projects/soil-calculator/soil-calc-capture.png" alt="Screen Capture of Soil Calculator" class="mx-auto" />
+</p>
+
+
 ## 💡 Engineering Highlights
 
 - Focused on **product thinking**: integrates purchase flow to encourage real transactions
@@ -46,9 +60,18 @@ I built this tool to provide an intuitive, mobile-friendly solution that simplif
 - Implemented full **unit testing** for calculation logic using Jest
 - Managed full **deployment pipeline** with Netlify and custom SEO configuration
 
+## 🔑 Key Skills Demonstrated
 
-## 👀 Reflection
+- Component-based UI design with Tailwind CSS
+- AI-assisted design workflow (Google Stitch, ChatGPT image generation)
+- SEO optimization (Open Graph, sitemap, robots.txt)
+- Integrated analytics with Google Analytics (GA4)
 
-Although this started as a simple calculator, I intentionally treated it like a real-world product — considering UX, design, testing, deployment, SEO, and maintainability from end to end.
+## 🎯 Takeaway
 
-Through this project, I gained hands-on experience across the full lifecycle of frontend product development.
+This project started as a simple calculator but evolved into a fully functional, production-ready web app. It demonstrates:
+
+- My ability to **own the entire frontend product cycle**
+- My attention to **user experience, input robustness, and design polish**
+- My skill in **leveraging AI tools to accelerate design and prototyping**
+- My experience with **deployment, SEO, and analytics integration**

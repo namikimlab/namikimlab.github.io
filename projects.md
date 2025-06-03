@@ -10,7 +10,7 @@ permalink: /projects/
   </div>
 
   <div class="flex flex-col gap-6 py-6">
-    {% assign all_projects = site.projects | sort: 'order' %}
+    {% assign all_projects = site.projects | sort: 'date' | reverse %}
     {% for project in all_projects %}
       {% if project.visible == true %}
       <a href="{{ project.url }}" class="block bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-md transition-shadow duration-300 focus:outline-none focus:ring-2 focus:ring-accent">
