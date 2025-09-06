@@ -87,9 +87,20 @@ permalink: /about/
 
 
 <h2 class="text-[#191610] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">Certifications & Licenses</h2>
+<div class="px-4 pb-4 flex flex-wrap gap-4">
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f91b47ad-a20f-4460-ab0a-343c48d6c23c" data-share-badge-host="https://www.credly.com"></div>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eea63177-e123-4765-a53d-33c2b582dc94" data-share-badge-host="https://www.credly.com"></div>
+</div>
 <div class="flex items-center gap-4 bg-[#fbfaf9] px-4 min-h-[72px] py-2 justify-between">
-  <div class="flex flex-col justify-center">
-    <p class="text-[#191610] text-base font-medium leading-normal line-clamp-1">U.S. Certified Public Accountant (CPA)</p>
+  <div class="flex items-center gap-3">
+    <div class="w-12 h-12 bg-gradient-to-br from-[#1a472a] to-[#2d5a3d] rounded-lg flex items-center justify-center">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="white">
+        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+      </svg>
+    </div>
+    <div class="flex flex-col justify-center">
+      <p class="text-[#191610] text-base font-medium leading-normal line-clamp-1">U.S. Certified Public Accountant (CPA)</p>
+    </div>
   </div>
 </div>
 
@@ -148,4 +159,6 @@ permalink: /about/
     </a>
   </div>
   <div class="h-5 bg-[#fbfaf9]"></div>
-</div> 
+</div>
+
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> 
