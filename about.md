@@ -7,7 +7,7 @@ permalink: /about/
 <div class="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8">
 <h2 class="text-[#191610] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">About Me</h2>
 <p class="text-[#191610] text-base font-normal leading-normal pb-3 pt-1 px-4">
-  🧩 5+ years in finance (CPA), now solving real-world problems with data<br>
+  🧩 7+ years in finance (CPA), now solving real-world problems with data<br>
   💡 Interested in Fintech, Data, and AI infrastructure<br>
   🔬 Continuously learning and building with Data, AI, ML<br>
   🌏 Location-flexible, open to remote roles globally.
@@ -63,6 +63,13 @@ permalink: /about/
     <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Git</p></div>
     <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Linux</p></div>
   </div>
+  <h3 class="text-[#191610] text-sm font-medium leading-normal pt-2 pb-1">Frontend</h3>
+  <div class="flex gap-3 flex-wrap pb-2">
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Vite</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">React</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">TypeScript</p></div>
+    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Tailwind CSS</p></div>
+  </div>
 </div>
 
 <h2 class="text-[#191610] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">Education</h2>
@@ -91,24 +98,14 @@ permalink: /about/
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f91b47ad-a20f-4460-ab0a-343c48d6c23c" data-share-badge-host="https://www.credly.com"></div>
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eea63177-e123-4765-a53d-33c2b582dc94" data-share-badge-host="https://www.credly.com"></div>
 </div>
-<div class="flex items-center gap-4 bg-[#fbfaf9] px-4 min-h-[72px] py-2 justify-between">
-  <div class="flex items-center gap-3">
-    <div class="w-12 h-12 bg-gradient-to-br from-[#1a472a] to-[#2d5a3d] rounded-lg flex items-center justify-center">
-      <svg width="24" height="24" viewBox="0 0 24 24" fill="white">
-        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
-      </svg>
-    </div>
-    <div class="flex flex-col justify-center">
-      <p class="text-[#191610] text-base font-medium leading-normal line-clamp-1">U.S. Certified Public Accountant (CPA)</p>
-    </div>
-  </div>
+<div class="flex flex-col justify-center">
+  <p class="text-[#191610] text-base font-medium leading-normal line-clamp-1">U.S. Certified Public Accountant (CPA)</p>
 </div>
-
 
 <h2 class="text-[#191610] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">Connect with Me</h2>
 <div class="flex items-center gap-4 bg-[#fbfaf9] px-4 min-h-[72px] py-2 justify-between">
   <div class="flex flex-col justify-center">
-    <p class="text-[#191610] text-base font-medium leading-normal line-clamp-1"><a href="https://namikimlab.github.io/" class="hover:underline" target="_blank" rel="noopener">GitHub Pages</a></p>
+    <p class="text-[#191610] text-base font-medium leading-normal line-clamp-1"><a href="https://namikimlab.github.io/" class="hover:underline" target="_blank" rel="noopener">Portfolio</a></p>
     <p class="text-[#8c7f5a] text-sm font-normal leading-normal line-clamp-2"><a href="https://namikimlab.github.io/" class="hover:underline" target="_blank" rel="noopener">Portfolio & Featured Projects</a></p>
   </div>
 </div>
