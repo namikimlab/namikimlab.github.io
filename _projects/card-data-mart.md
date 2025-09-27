@@ -124,3 +124,6 @@ This project simulates real-world batch processing pipelines you'd expect in pro
 - My ability to own the full pipeline **from ingestion to reporting**
 - My understanding of **data validation and observability**
 - My hands-on experience with modern data stack tools: **Airflow, dbt, Docker, Metabase**
+
+---
+👉 [**Source Code (GitHub)**](https://github.com/namikimlab/card-data-mart)
