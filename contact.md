@@ -8,6 +8,12 @@ permalink: /contact/
   <div class="p-4">
     <div class="flex flex-col gap-8">
       <h2 class="text-[#191610] text-lg font-bold leading-tight tracking-[-0.015em] flex-1 text-left pr-12">Contact Info</h2>
+
+      <div class="flex flex-col">
+        <p class="text-[#8c7f5a] text-base font-normal leading-normal mb-1">Portfolio</p>
+        <a href="https://namikimlab.github.io" class="text-[#191610] text-lg font-medium leading-normal hover:underline">namikimlab.github.io</a>
+      </div>
+
       <div class="flex flex-col">
         <p class="text-[#8c7f5a] text-base font-normal leading-normal mb-1">Email</p>
         <p class="text-[#191610] text-lg font-medium leading-normal">namixkim [at] gmail [dot] com</p>
