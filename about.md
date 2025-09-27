@@ -98,9 +98,12 @@ permalink: /about/
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f91b47ad-a20f-4460-ab0a-343c48d6c23c" data-share-badge-host="https://www.credly.com"></div>
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eea63177-e123-4765-a53d-33c2b582dc94" data-share-badge-host="https://www.credly.com"></div>
 </div>
-<div class="flex flex-col justify-center">
-  <p class="text-[#191610] text-base font-medium leading-normal line-clamp-1">U.S. Certified Public Accountant (CPA)</p>
+<div class="flex items-center gap-4 bg-[#fbfaf9] px-4 min-h-[72px] py-2 justify-between">
+  <div class="flex flex-col justify-center">
+    <p class="text-[#191610] text-base font-medium leading-normal line-clamp-1">U.S. Certified Public Accountant (CPA)</p>
+  </div>
 </div>
+
 
 <h2 class="text-[#191610] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">Connect with Me</h2>
 <div class="flex items-center gap-4 bg-[#fbfaf9] px-4 min-h-[72px] py-2 justify-between">
