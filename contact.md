@@ -15,11 +15,6 @@ permalink: /contact/
       </div>
 
       <div class="flex flex-col">
-        <p class="text-[#8c7f5a] text-base font-normal leading-normal mb-1">Email</p>
-        <p class="text-[#191610] text-lg font-medium leading-normal">namixkim [at] gmail [dot] com</p>
-      </div>
-
-      <div class="flex flex-col">
         <p class="text-[#8c7f5a] text-base font-normal leading-normal mb-1">LinkedIn</p>
         <a href="https://linkedin.com/in/namixkim" class="text-[#191610] text-lg font-medium leading-normal hover:underline">linkedin.com/in/namixkim</a>
       </div>
@@ -32,6 +27,11 @@ permalink: /contact/
       <div class="flex flex-col">
         <p class="text-[#8c7f5a] text-base font-normal leading-normal mb-1">Blog</p>
         <a href="https://en.namixkim.com" class="text-[#191610] text-lg font-medium leading-normal hover:underline">namixkim.com</a>
+      </div>
+
+      <div class="flex flex-col">
+        <p class="text-[#8c7f5a] text-base font-normal leading-normal mb-1">Email</p>
+        <p class="text-[#191610] text-lg font-medium leading-normal">namixkim [at] gmail [dot] com</p>
       </div>
     </div>
   </div>
