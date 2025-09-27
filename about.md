@@ -100,6 +100,8 @@ permalink: /about/
 </div>
 <div class="flex items-center gap-4 bg-[#fbfaf9] px-4 min-h-[72px] py-2 justify-between">
   <div class="flex flex-col justify-center">
+    <p class="text-[#191610] text-base font-medium leading-normal line-clamp-1">AWS Certified Solutions Architect Associate</p>
+    <p class="text-[#191610] text-base font-medium leading-normal line-clamp-1">AWS Certified Data Engineer Associate</p>
     <p class="text-[#191610] text-base font-medium leading-normal line-clamp-1">U.S. Certified Public Accountant (CPA)</p>
   </div>
 </div>
