@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Fintech Batch ETL with Redshift Cloud Integration
-date: 2025-09-27
+date: 2025-09-26
 description: A production-style batch ETL pipeline for fintech transactions with cloud-ready architecture.
 image: /assets/projects/fintech-batch-cloud/cover.jpg
 tags: ["Data Engineering", "Cloud Integration", "AWS", "ETL", "Apache Airflow", "Apache Spark", "dbt", "Redshift", "S3", "Great Expectations", "Data Quality", "Batch Processing", "Docker"]

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Retail Card Transaction Data Mart
-date: 2025-09-28
+date: 2025-09-27
 description: A fully self-built batch data pipeline simulating real-world retail transaction analytics. 
 image: /assets/projects/card-data-mart/cardmapr-nl-EjAkfNQb46k-unsplash.jpg
 tags: ["Data Engineering", "Data Pipeline", "ETL", "Apache Airflow", "dbt", "Docker", "Data Mart", "Data Quality", "PostgreSQL", "Metabase", "OLAP", "Batch Processing"]

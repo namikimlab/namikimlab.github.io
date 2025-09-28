@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Real-Time Transaction Monitoring Pipeline
-date: 2025-09-29
+date: 2025-09-28
 description: A full-stack real-time and batch data pipeline simulating fintech payment transaction monitoring.
 image: /assets/projects/real-time-transaction/architecture.png
 tags: ["Data Engineering", "Streaming", "Batch Processing", "Kafka", "Apache Spark", "Apache Airflow", "dbt", "PostgreSQL", "Metabase", "Docker", "Fraud Detection", "Data Quality"]
