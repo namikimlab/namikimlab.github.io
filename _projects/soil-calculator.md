@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Potting Soil Calcualtor
-date: 2024-06-01
+date: 2025-06-01
 description: A mobile-friendly web app that calculates optimal potting soil volume and recommends purchase options based on pot shape and size.
 image: /assets/projects/soil-calculator/feey-ef8Xt_z_m1k-unsplash.jpg
 tags: [React, Vite, Netlify, Web app, Typescript, Tailwind CSS, Jest, Frontend, SEO, Product Development]
