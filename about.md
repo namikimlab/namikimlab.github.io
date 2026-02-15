@@ -7,69 +7,48 @@ permalink: /about/
 <div class="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8">
 <h2 class="text-[#191610] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">About Me</h2>
 <p class="text-[#191610] text-base font-normal leading-normal pb-3 pt-1 px-4">
-  🧩 7+ years in finance (CPA), now solving real-world problems with data<br>
-  💡 Interested in Fintech, Data, and AI infrastructure<br>
-  🔬 Continuously learning and building with Data, AI, ML<br>
-  🌏 Location-flexible, open to remote roles globally.
+  I design and ship production-ready products - from messy ideas to stable systems in production.<br><br>
+  💻 <strong>Product Engineer building AI-powered products from idea to production</strong><br><br>
+  🎓 CS Master's | MA Finance | BA Economics<br>
+  📕 CPA turned Product Engineer.<br>
+  🌍 Location flexible | Open to remote work globally!<br><br>
+  I don't just write code. ✨<br>
+  I structure problems, define systems, and ship usable products.<br><br>
+  With a CPA background, I naturally think in terms of compliance and internal controls.<br>
+  I build systems that are traceable, regulation-aware, and audit-defensible.
 </p>
-
-<h2 class="text-[#191610] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">Tech Stack</h2>
 <div class="px-4 pb-2">
-  <h3 class="text-[#191610] text-sm font-medium leading-normal pt-2 pb-1">Programming Languages</h3>
-  <div class="flex gap-3 flex-wrap pb-2">
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Python</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">SQL</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Java</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">JavaScript</p></div>
-  </div>
-  <h3 class="text-[#191610] text-sm font-medium leading-normal pt-2 pb-1">Data Engineering & Orchestration</h3>
-  <div class="flex gap-3 flex-wrap pb-2">
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Apache Spark</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Apache Airflow</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Kafka</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">dbt</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Kestra</p></div>
-  </div>
-  <h3 class="text-[#191610] text-sm font-medium leading-normal pt-2 pb-1">Machine Learning & AI</h3>
-  <div class="flex gap-3 flex-wrap pb-2">
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Scikit-Learn</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Pandas</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">NumPy</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Jupyter Notebook</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Hugging Face</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">LLM</p></div>
-  </div>
-  <h3 class="text-[#191610] text-sm font-medium leading-normal pt-2 pb-1">Databases</h3>
-  <div class="flex gap-3 flex-wrap pb-2">
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">PostgreSQL</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">MongoDB</p></div>
-  </div>
-  <h3 class="text-[#191610] text-sm font-medium leading-normal pt-2 pb-1">Visualization & BI</h3>
-  <div class="flex gap-3 flex-wrap pb-2">
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Tableau</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Power BI</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Looker</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Metabsae</p></div>
-  </div>
-  <h3 class="text-[#191610] text-sm font-medium leading-normal pt-2 pb-1">Cloud Platforms</h3>
-  <div class="flex gap-3 flex-wrap pb-2">
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">AWS</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">GCP</p></div>
-  </div>
-  <h3 class="text-[#191610] text-sm font-medium leading-normal pt-2 pb-1">DevOps & Infrastructure</h3>
-  <div class="flex gap-3 flex-wrap pb-2">
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Docker</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Terraform</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Git</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Linux</p></div>
-  </div>
-  <h3 class="text-[#191610] text-sm font-medium leading-normal pt-2 pb-1">Frontend</h3>
-  <div class="flex gap-3 flex-wrap pb-2">
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Vite</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">React</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">TypeScript</p></div>
-    <div class="flex h-8 shrink-0 items-center justify-center gap-x-2 rounded-xl bg-[#f1efe9] pl-4 pr-4"><p class="text-[#191610] text-sm font-medium leading-normal">Tailwind CSS</p></div>
-  </div>
+  <p class="text-[#191610] text-base font-normal leading-normal pt-1">Currently focused on 🎯</p>
+  <ul class="list-disc pl-5 text-[#191610] text-base font-normal leading-normal pt-1">
+    <li>AI-powered SaaS</li>
+    <li>Data infrastructure</li>
+    <li>Fintech, Health automation</li>
+    <li>Applied AI systems</li>
+  </ul>
+</div>
+
+<h2 class="text-[#191610] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">🛠️ Core Capabilities</h2>
+<div class="px-4 pb-2">
+  <h3 class="text-[#191610] text-base font-medium leading-normal pt-2 pb-1">🏗️ Product & Architecture</h3>
+  <p class="text-[#191610] text-base font-normal leading-normal pb-2">System design · SaaS modeling · Data modeling<br>API design · Multi-environment deployment</p>
+
+  <h3 class="text-[#191610] text-base font-medium leading-normal pt-2 pb-1">🧰 Backend & Data</h3>
+  <p class="text-[#191610] text-base font-normal leading-normal pb-2">Python · SQL · Spark · Airflow<br>Kafka · dbt · PostgreSQL · MongoDB</p>
+
+  <h3 class="text-[#191610] text-base font-medium leading-normal pt-2 pb-1">🤖 AI & Applied ML</h3>
+  <p class="text-[#191610] text-base font-normal leading-normal pb-2">Scikit-Learn · Pandas · NumPy<br>LLM integration · Hugging Face</p>
+
+  <h3 class="text-[#191610] text-base font-medium leading-normal pt-2 pb-1">☁️ Cloud & Infrastructure</h3>
+  <p class="text-[#191610] text-base font-normal leading-normal pb-2">AWS · GCP · Docker · Terraform · CI/CD · Linux</p>
+
+  <h3 class="text-[#191610] text-base font-medium leading-normal pt-2 pb-1">🖥️ Frontend (Product UI)</h3>
+  <p class="text-[#191610] text-base font-normal leading-normal pb-2">React · TypeScript · Tailwind</p>
+
+  <h3 class="text-[#191610] text-base font-medium leading-normal pt-2 pb-1">📡 Monitoring & Observability</h3>
+  <p class="text-[#191610] text-base font-normal leading-normal pb-2">Structured logging · Monitoring & alerting · Operational dashboards<br>Usage analytics · Performance & cost metrics</p>
+
+  <h3 class="text-[#191610] text-base font-medium leading-normal pt-2 pb-1">🛡️ Compliance & Risk-Aware Systems</h3>
+  <p class="text-[#191610] text-base font-normal leading-normal pb-2">Regulation-aware architecture · Access control (RBAC) · Data lineage<br>Audit logs · Internal control logic</p>
 </div>
 
 <h2 class="text-[#191610] text-[22px] font-bold leading-tight tracking-[-0.015em] px-4 pb-3 pt-5">Education</h2>
